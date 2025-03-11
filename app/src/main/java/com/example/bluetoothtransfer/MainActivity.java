@@ -4,7 +4,7 @@ import android.Manifest;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
 import android.content.Intent;
-import android.net.Uri;
+import android.net.Uri;git
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
